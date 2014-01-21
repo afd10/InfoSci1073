@@ -3,14 +3,14 @@ InfoSci1073
 
 This is a Repo!  
 
-Jay Palat / vpalat@pitt.edu
+Alayne Doney / afd10@pitt.edu
 ==================
 Three Facts About Me
 ---
 
-*   I enjoy reading.
-*   I am a Pitt Graduate.
-*   I have run a half-marathon.
+*   I will graduate in April 2014.
+*   I am from Pittsburgh.
+*   I played on the Club Volleyball Team at Pitt.
 
 ---
 Make some changes locally.  I want to add  a sentence.
